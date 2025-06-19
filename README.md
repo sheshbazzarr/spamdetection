@@ -25,5 +25,5 @@ The goal of this project is to classify text messages as either **spam** or **ha
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/spamdetection.git
+   git clone https://github.com/sheshbazzarr/spamdetection.git
    cd spamdetection
